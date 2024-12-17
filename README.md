@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a student in Media Informatics with a love for creating innovative solutions and learning new technologies.
 
 ## 👩🏼‍💻 About Me
-🛠️ I’m currently working on a project in web development: [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify) <br>
+✏️ I’m currently working on a project in web development: [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify) <br>
 📚 I’m currently learning web development techniques and exploring new frameworks.<br>
-📫 How to reach me: ... <br>
+📮 How to reach me: ... <br>
 ⚡ Fun fact: I like mountain biking. <br>
  
 ## 🛠️ Languages and Tools
@@ -24,9 +24,6 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 ![Cosima's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosimazink&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![Cosima's GitHub trophies](https://github-profile-trophy.vercel.app/?username=cosimazink&theme=radical)
 
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosimazink&layout=compact&theme=radical)
