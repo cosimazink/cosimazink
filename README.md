@@ -1,13 +1,13 @@
-# Hi there, I'm Cosima! 👋
+# Hi there, I'm Cosima! 💁🏼‍♀️
 
 Welcome to my GitHub profile! I'm a student in Media Informatics with a love for creating innovative solutions and learning new technologies.
 
 ## 👩🏼‍💻 About Me
-🔭 I’m currently working on a project in web development: [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify)
-🌱 I’m currently learning web development techniques and exploring new frameworks.
-📫 How to reach me: ...
-⚡ Fun fact: I like mountain biking.
-
+🛠️ I’m currently working on a project in web development: [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify) <br>
+📚 I’m currently learning web development techniques and exploring new frameworks.<br>
+📫 How to reach me: ... <br>
+⚡ Fun fact: I like mountain biking. <br>
+ 
 ## 🛠️ Languages and Tools
 Here are some of the technologies and tools I work with:
 
