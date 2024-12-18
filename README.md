@@ -13,7 +13,7 @@ Here are some of the technologies and tools I work with:
 
 - **Languages:** Kotlin, HTML, CSS, JavaScript
 - **Frameworks:** Node.js
-- **Tools:** GitHub, IntelliJ IDEA, Figma, Visual Studio Code, Docker, Postman, Android Studio
+- **Tools:** GitHub, IntelliJ IDEA, Figma, Visual Studio Code, Docker
 
 ## Projects
 - [Shrinkify](https://github.com/ricardotimmr/entwicklungsprojekt-shrinkify): This project aims to provide a simple and efficient way for customers to automatically optimise large images, videos and audio files before uploading them to a content management system (CMS).
