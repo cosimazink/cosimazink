@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a student in Media Informatics with a love for creating innovative solutions and learning new technologies.
 
 ## 👩🏼‍💻 About Me
-✏️ I’m currently working on [Praxisprojekt](https://github.com/cosimazink/praxisprojekt-2025) <br>
+✏️ I’m currently working on [Bachelorarbeit](https://github.com/cosimazink/bachelorarbeit) <br>
 📚 I’m currently studying Media Informatics at TH Köln. <br>
 📮 How to reach me: ... <br>
 ⚡ Fun fact: I like mountain biking. <br>
