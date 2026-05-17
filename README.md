@@ -24,9 +24,9 @@ Here are some of the technologies and tools I work with:
 - [PomodoroPro](https://github.com/cosimazink/PomodoPro-Team22): This android app is a Pomodoro timer for a better studying experience.
 - [ProxyParcelBox](https://github.com/cosimazink/proxyparcelbox_cosima_zink): ProxyParcelBox is a web-based platform that helps users identify which neighbor accepted their package when they weren’t home and allows them to arrange a convenient pickup time.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosimazink&show_icons=true&hide_border=true&theme=dark&hide=stars)
+![GitHub Stats](https://github-stats.com/api?username=cosimazink)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosimazink&layout=compact&hide_border=true&theme=dark)
+![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=cosimazink&layout=compact&hide_border=true&theme=dark)
 
 ![Streak](https://streak-stats.demolab.com?user=cosimazink&theme=dark&hide_border=true)
 
